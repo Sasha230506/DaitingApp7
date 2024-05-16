@@ -1,6 +1,7 @@
 ﻿{
   "profiles": {
     "http": {
+      "hotReloadEnabled": false,
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,
